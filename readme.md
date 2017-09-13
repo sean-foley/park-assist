@@ -4,6 +4,8 @@ This project uses a VL53L0x Lidar time-of-flight sensor, a microcrontroller, and
 into a skull to help with parking your vehicle in your garage.  The LEDs animate from green, yellow, to red to 
 give you a visual indication on when to stop.
 
+![park assist installed](./img/park-assist-installed.jpg)
+
 ## Getting Started
 
 You will need to prototype the circuit first.  While you can get some of these parts through cheaper sources such as ebay,
