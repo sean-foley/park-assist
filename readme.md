@@ -22,6 +22,7 @@ I needed positioning flexibility, so I separated the sensor from the microcontro
 a small length of CAT-5 Ethernet cable.  You can fit it all on one breadboard to start experimenting first.
 
 PARTS:
+
     VL53L0x Laser time-of-flight sensor 50mm-1200mm range
     https://www.adafruit.com/product/3317
     
